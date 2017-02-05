@@ -40,6 +40,7 @@ There's no machine learning without something to learn. This section contains a 
 * https://aws.amazon.com/public-datasets/: Quite large datasets, but many interesting ones containing real world data
 * https://datahub.io
 * [The default sci-kit learn datasets](http://scikit-learn.org/stable/datasets/)
+* [mldata.org dataset repository](http://mldata.org/repository/data/)
 
 # [Libraries](docs/libraries.md)
 
