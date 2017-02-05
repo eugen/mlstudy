@@ -39,6 +39,7 @@ There's no machine learning without something to learn. This section contains a 
 * Google research datasets: https://research.google.com/research-outreach.html#/research-outreach/research-datasets
 * https://aws.amazon.com/public-datasets/: Quite large datasets, but many interesting ones containing real world data
 * https://datahub.io
+* [The default sci-kit learn datasets](http://scikit-learn.org/stable/datasets/)
 
 # [Libraries](docs/libraries.md)
 
