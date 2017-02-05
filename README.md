@@ -21,9 +21,12 @@ Getting to know each other, discussing the plan, the guidelines for sharing the 
 
 Recommended datasets: 
 * House prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
-* Credit card fraud: https://www.kaggle.com/dalpozz/creditcardfraud
 
 ## Meeting 3: Logistic Regression
+
+Recommended datasets: 
+* Credit card fraud: https://www.kaggle.com/dalpozz/creditcardfraud
+
 ## Meeting 4: Classification
 ## Meeting 5: Recommendations
 
