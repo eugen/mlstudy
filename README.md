@@ -60,6 +60,12 @@ There are many sources that cover the theory of machine learning.
 
 ## Cheatsheets
 
+Diagrams that assist you in choosing the correct model to train:
+* [scikit-learn - Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+* [Machine learning algorithm cheatsheet for Microsoft Azure ML Studio](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
+
+Note: these only hint the correct algorithm to use for a particular situation and are still useful regardless of the platform one uses.
+
 # Libraries
 
 ## Integrated offline environments
