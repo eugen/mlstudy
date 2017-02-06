@@ -11,7 +11,8 @@ Getting to know each other, discussing the plan, the guidelines for sharing the 
 
 Recommended datasets: 
 * House prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
-* Credit card fraud: https://www.kaggle.com/dalpozz/creditcardfraud
+* Titanic survivability: https://www.kaggle.com/c/titanic
+* Video Game sales with ratings: https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
 
 ## 3: Logistic Regression
 ## 4: Classification
@@ -23,8 +24,6 @@ Recommended datasets:
 There are many sources that cover the theory of machine learning. 
 
 ## Full courses
-* Titanic survivability: https://www.kaggle.com/c/titanic
-* Video Game sales with ratings: https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
 
 ## Books
 
