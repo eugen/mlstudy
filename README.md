@@ -74,25 +74,23 @@ There are many sources that cover the theory of machine learning.
 
 ## Python
 
-### sci-kit
-### pandas
-### SFrame
+* [scikit-learn](http://scikit-learn.org/stable/)
+* [pandas](http://pandas.pydata.org/)
+* [SFrame](https://github.com/turi-code/SFrame)
+* [pytorch](https://github.com/hughperkins/pytorch)
 
 ## R
 
-### [RStudio](https://www.rstudio.com)
-
-## Java
-
-## .NET
+* [RStudio](https://www.rstudio.com)
 
 ## Lua
 
-### Torch
+* [Torch](http://torch.ch/)
 
-## Others
+## Java/.NET/Others
 
 I don't even.
+
 
 # Other Tools
 
