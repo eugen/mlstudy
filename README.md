@@ -60,17 +60,18 @@ There are many sources that cover the theory of machine learning.
 
 ## Cheatsheets
 
-
 # Libraries
 
 ## Integrated offline environments
 
-### Jupyter Notebooks
-### Anaconda
+* [Anaconda](https://anaconda.org): Simple way to offline install Python, Jupyter Notebooks and all required libraries for data science & machine learning. Should work for other languages besides Python (R, Ruby, Scala, Java, JS) but untested. Feel free to add details here if you've tried it.
+* [RStudio](https://www.rstudio.com): Very nice IDE for R
 
 ## Online Environments
-### Azure Notebooks
-### Kaggle
+
+* [Kaggle](http://kaggle.com/): Online hosting of Jupyter Notebooks. Supports Python (2?) and R.
+* [Azure Notebooks](https://notebooks.azure.com/): Online hosting of Jupyter Notebooks. Supports Python 2&3, R and F#
+* [Anaconda Cloud](https://ananconda.org): Packages must be developed offline, but can then be uploaded to Anaconda Cloud and shared with everyone.
 
 ## Python
 
@@ -79,17 +80,9 @@ There are many sources that cover the theory of machine learning.
 * [SFrame](https://github.com/turi-code/SFrame)
 * [pytorch](https://github.com/hughperkins/pytorch)
 
-## R
+## Java/.NET/R/Lua/Others
 
-* [RStudio](https://www.rstudio.com)
-
-## Lua
-
-* [Torch](http://torch.ch/)
-
-## Java/.NET/Others
-
-I don't even.
+To anyone interested in using any of these: Feel free to add dedicated sections.
 
 
 # Other Tools
