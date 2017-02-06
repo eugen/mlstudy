@@ -56,7 +56,20 @@ There are many sources that cover the theory of machine learning.
 
 ## Full courses
 
-## Books
+## Recommended Books
+
+### Machine Learning: Hands-On for Developers and Technical Professionals - Jason Bell, 2014
+
+[Amazon Link](https://www.amazon.de/gp/product/1118889061/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)
+
+A book that touches many of the ML techniques in a developer-friendly fashion, with working code examples.
+
+### Understanding Machine Learning: From Theory to Algorithms - Shai Shalev-Shwartz, Shai Ben-David, 2014
+
+[Amazon Link](https://www.amazon.de/gp/product/1107057132/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+
+A book that explores most machine learning branches in great depth, with the caveat of also being very theory-heavy. Better get a refresh on your greek alphabet before diving in. 
+
 
 ## Cheatsheets
 
