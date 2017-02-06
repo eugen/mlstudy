@@ -9,29 +9,33 @@ Getting to know each other, discussing the plan, the guidelines for sharing the 
 
 ## 2: Linear Regression
 
-Recommended datasets: 
-* House prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
-* Titanic survivability: https://www.kaggle.com/c/titanic
-* Video Game sales with ratings: https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+Create simple prediction models from small datasets.
 
-## 3: Logistic Regression
-## 4: Classification
+### Recommended datasets: 
+* [House prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data): Predict the price of a house based on surface, lot size, #bathrooms, #bedrooms, etc.
+* [Titanic survivability](https://www.kaggle.com/c/titanic): Predict the likelyhood of someone surviving the sinking of the Titanic based on their gender, age, passenger class and some other variables.
+* [Video Game sales with ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings): Predict how well a game will sell based on the critic rating, user rating, publisher and genre.
+
+## 3: Classification
+
+Go over binary classification problems and some algorithms for solving them, e.g logistic regression.
+
+### Recommended datasets:
+
+* [Rotten Tomatoes moview reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews): predict whether the review is positive or not (ant not the score itself).
+* [Amazon Fine Foods reviews](http://snap.stanford.edu/data/web-FineFoods.html): multivariate regression: predict whether the review is positive or not *and* whether other users find it helpful.
+* [Credit card fraud detection](https://www.kaggle.com/dalpozz/creditcardfraud): predict whether a transaction is fraudulent or not.
+* [HR Analytics - When will an employee leave the company](https://www.kaggle.com/ludobenistant/hr-analytics): predict whether an employee is likely to leave the company.
+
+
+## 4: Clustering
+
+Solve some simple multiclass clustering prodblems with K-nearest neighbors/K-means.
+
+
 ## 5: Recommendations
 
-
-# Theory
-
-There are many sources that cover the theory of machine learning. 
-
-## Full courses
-
-## Books
-
-Recommended datasets: 
-* Credit card fraud: https://www.kaggle.com/dalpozz/creditcardfraud
-
-
-## Cheatsheets
+Create a model for product recommendations with collaborative filtering.
 
 
 # Datasets
@@ -46,7 +50,18 @@ There's no machine learning without something to learn. This section contains a 
 * [The default sci-kit learn datasets](http://scikit-learn.org/stable/datasets/)
 * [mldata.org dataset repository](http://mldata.org/repository/data/)
 
-# [Libraries](docs/libraries.md)
+# Theory
+
+There are many sources that cover the theory of machine learning. 
+
+## Full courses
+
+## Books
+
+## Cheatsheets
+
+
+# Libraries
 
 ## Integrated offline environments
 
@@ -79,13 +94,13 @@ There's no machine learning without something to learn. This section contains a 
 
 I don't even.
 
-# Other tools
+# Other Tools
 
 * [Gist](https://gist.github.com): Preferred way of sharing code snippets.
 
 * [Jupyter Notebook viewer](http://nbviewer.jupyter.org): Allows viewing of Jupyter notebooks from any URL, github repo or gist.
 
-# Related subjects
+# Related Subjects
 
 ## Statistics
 
