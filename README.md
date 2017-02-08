@@ -6,21 +6,22 @@
 
 Getting to know each other, discussing the plan, the guidelines for sharing the assignments, etc.
 
-Going through a small demo/tutorial for Jupyter Notebooks. [See demo notebook here](1. Intro to Jupyter Notebooks and Scientific Python.ipynb).
+Going through a small demo/tutorial for Jupyter Notebooks. See [demo notebook here](1. Intro to Jupyter Notebooks - Python.ipynb).
 
 
 ## 2: Linear Regression
 
-Create simple prediction models from small datasets.
+Create simple prediction models from small datasets. See [demo notebook here](2. Linear Regression - Python.ipynb)
 
 ### Recommended datasets: 
 * [House prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data): Predict the price of a house based on surface, lot size, #bathrooms, #bedrooms, etc.
 * [Titanic survivability](https://www.kaggle.com/c/titanic): Predict the likelyhood of someone surviving the sinking of the Titanic based on their gender, age, passenger class and some other variables.
 * [Video Game sales with ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings): Predict how well a game will sell based on the critic rating, user rating, publisher and genre.
 
+
 ## 3: Classification
 
-Go over binary classification problems and some algorithms for solving them, e.g logistic regression.
+Go over binary classification problems and some algorithms for solving them, e.g logistic regression. See [demo notebook here](3. Binary Classification - Python.ipynb)
 
 ### Recommended datasets:
 
@@ -32,12 +33,12 @@ Go over binary classification problems and some algorithms for solving them, e.g
 
 ## 4: Clustering
 
-Solve some simple multiclass clustering prodblems with K-nearest neighbors/K-means.
+Solve some simple clustering prodblems with K-nearest neighbors/K-means. See [demo notebook here](4. Clustering - Python.ipynb)
 
 
 ## 5: Recommendations
 
-Create a model for product recommendations with collaborative filtering.
+Create a model for product recommendations with collaborative filtering. See [demo notebook here](5. Collaborative Filtering - Python.ipynb)
 
 
 # Datasets
