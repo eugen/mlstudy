@@ -6,7 +6,7 @@
 
 Getting to know each other, discussing the plan, the guidelines for sharing the assignments, etc.
 
-Going through a small demo/tutorial for Jupyter Notebooks. [See this](1. Intro to Jupyter Notebooks and Scientific Python.ipynb).
+Going through a small demo/tutorial for Jupyter Notebooks. [See demo notebook here](1. Intro to Jupyter Notebooks and Scientific Python.ipynb).
 
 
 ## 2: Linear Regression
