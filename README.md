@@ -25,7 +25,7 @@ Go over binary classification problems and some algorithms for solving them, e.g
 
 ### Recommended datasets:
 
-* [Medical Appointment No Shows[(https://www.kaggle.com/joniarroba/noshowappointments): predict whether a patient will show up for his scheduled appointment
+* [Medical Appointment No Shows](https://www.kaggle.com/joniarroba/noshowappointments): predict whether a patient will show up for his scheduled appointment
 * [Rotten Tomatoes moview reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews): predict whether the review is positive or not (ant not the score itself).
 * [Amazon Fine Foods reviews](http://snap.stanford.edu/data/web-FineFoods.html): multivariate regression: predict whether the review is positive or not *and* whether other users find it helpful.
 * [Credit card fraud detection](https://www.kaggle.com/dalpozz/creditcardfraud): predict whether a transaction is fraudulent or not.
