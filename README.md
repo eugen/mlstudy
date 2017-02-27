@@ -19,12 +19,13 @@ Create simple prediction models from small datasets. See [demo notebook here](2.
 * [Video Game sales with ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings): Predict how well a game will sell based on the critic rating, user rating, publisher and genre.
 
 
-## 3: Classification
+## 3: Binary Classification
 
 Go over binary classification problems and some algorithms for solving them, e.g logistic regression. See [demo notebook here](3. Binary Classification - Python.ipynb)
 
 ### Recommended datasets:
 
+* [Medical Appointment No Shows[(https://www.kaggle.com/joniarroba/noshowappointments): predict whether a patient will show up for his scheduled appointment
 * [Rotten Tomatoes moview reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews): predict whether the review is positive or not (ant not the score itself).
 * [Amazon Fine Foods reviews](http://snap.stanford.edu/data/web-FineFoods.html): multivariate regression: predict whether the review is positive or not *and* whether other users find it helpful.
 * [Credit card fraud detection](https://www.kaggle.com/dalpozz/creditcardfraud): predict whether a transaction is fraudulent or not.
